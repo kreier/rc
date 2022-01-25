@@ -13,4 +13,3 @@ With the provided 8pin cable I only had to switch pin 7 (CUR) and 8 (GND) on the
 <img src="8pin_FC.jpg" width=30%>
 <img src="8pin_ESC.jpg" width=30%>
 <img src="FC.jpg" width=30%>
-
